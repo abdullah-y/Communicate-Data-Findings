@@ -20,7 +20,7 @@ In the second part, I will take my main findings from my exploration and convey 
 
 
 
-## Key Insights for Presentation
+## Key Insights 
 
 >  The avg duration time for regular customars are higher in june and july, coming after that august and september. for subscribers almost all months are close to each either. The relationship shows that the people who start use the bikes system at 03:00 hour has the maximum avg duration for both types of people Customers and subscribers. The most interesting relationship we found is the last point which shows most people whos start using the bike's system at 3:00, they have the highest avg duration time for both types of people. in general, between 1:00 to 5:00 is the peaked times that people have high avg duration time if they take a bike in these time.
 
